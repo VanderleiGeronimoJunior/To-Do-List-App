@@ -31,7 +31,7 @@ Projeto onde é feito uma lista de tarefas usnado HTML, CSS e JavaScript. Com es
 
 📸
 
-[⬆ Voltar ao topo](#indice)<br>
+[⬆ Voltar ao topo](##Índice)<br>
 
 #### To-Do-List-App
 
@@ -41,7 +41,7 @@ Projeto onde é feito uma lista de tarefas usnado HTML, CSS e JavaScript. Com es
 
 ## Demonstração
 
-[Link Demontração](<a href="https://to-do-list-app-f0dc03.netlify.app/">To-Do-List-App</a>)
+Demontração :<a href="https://to-do-list-app-f0dc03.netlify.app/">To-Do-List-App</a>
 
 ## Linguagens utilizadas
 
@@ -65,4 +65,4 @@ HTML | CSS | JavaScript
 - <a href="https://github.com/VanderleiGeronimoJunior">GitHub</a>
 - <a href="https://www.linkedin.com/in/vanderlei-junior-b9956686/">Linkedin</a>
 
-[⬆ Voltar ao topo](#indice)<br>
+[⬆ Voltar ao topo](#índice)<br>
