@@ -41,7 +41,7 @@ Projeto onde é feito uma lista de tarefas usnado HTML, CSS e JavaScript. Com es
 
 ## Demonstração
 
-[Link Demontração](<a href="https://efeitos-animacao-css-4ec76e.netlify.app/">efeitos-animacao-css</a>)
+[Link Demontração](<a href="https://to-do-list-app-f0dc03.netlify.app/">efeitos-animacao-css</a>)
 
 ## Linguagens utilizadas
 
